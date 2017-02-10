@@ -1,0 +1,46 @@
+{
+  "name": "angular-simple-sprite",
+  "version": "1.1.2",
+  "authors": [
+    "Tushar Ghate <tushghate@gmail.com>"
+  ],
+  "description": "An Angular directive for creating simple sprites.",
+  "main": [
+    "dist/angular-simple-sprite.js"
+  ],
+  "keywords": [
+    "angular",
+    "sprite",
+    "directive"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tusharghate/angular-simple-sprite",
+  "ignore": [
+    "**/.*",
+    ".gitignore",
+    "jshint-config.jshintrc",
+    "package.json",
+    "bower.json",
+    "GruntFile.js",
+    "grunt",
+    "example",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "demo"
+  ],
+  "dependencies": {
+    "angular": "^1.2.21"
+  },
+  "_release": "1.1.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.1.2",
+    "commit": "fd6595c4977d1d2b7a9fb66fac0c6949432e5eca"
+  },
+  "_source": "https://github.com/tusharghate/angular-simple-sprite.git",
+  "_target": "^1.1.2",
+  "_originalSource": "angular-simple-sprite",
+  "_direct": true
+}
